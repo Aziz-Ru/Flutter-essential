@@ -21,7 +21,7 @@ class _ChatDetailPage extends State<ChatDetailPage> {
         backgroundColor: Theme.of(context).primaryColor,
       ),
       body: const Center(
-        child: Text('Hello THis'),
+        child: Text('This is Chat detail page'),
       ),
     );
   }
