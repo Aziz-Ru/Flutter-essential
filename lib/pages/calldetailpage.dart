@@ -7,8 +7,9 @@ class Calldetail extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // ignore: unnecessary_null_comparison
     if (userCallList == null) {
-      return Center(
+      return const Center(
         child: Text("this Null"),
       );
     }
