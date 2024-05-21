@@ -1,16 +1,11 @@
-# flutter_essential
+# Listview
 
-A new Flutter project.
+ListView is a scrollable list of widgets arranged linearly. It displays its children one after another in the scroll direction i.e, vertical or horizontal.There are different types of ListViews :
 
-## Getting Started
+- ListView
+- ListView.builder
+- ListView.separated
+- ListView.custom
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="Screenshot from 2024-05-21 13-38-30.png">
+<img src="Screenshot from 2024-05-21 13-38-30.png">
